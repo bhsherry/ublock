@@ -672,7 +672,6 @@ pcpop.com##[id^=ad_],div.ad1,div.pcpop_ad1,div#banner9th
 ||ashow.pcpop.com/
 |http://count.pcpop.com/ClickPv.js
 
-www.v2ex.com###Rightbar>div.box:nth-of-type(2)~*
 ||v2ex.assets.uxengine.net/assets/sidebar/$image
 zhihu.com##.Banner.Card,.shameimaru-section,.Banner-image,.Banner-image
 !-------------------杂项--------------------
